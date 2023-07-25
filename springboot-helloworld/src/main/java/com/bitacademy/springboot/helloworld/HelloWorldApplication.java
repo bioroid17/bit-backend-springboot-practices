@@ -25,7 +25,7 @@ public class HelloWorldApplication {
 		 * 		2. 내장(embed) 서버(TomcatEmbeddedServiceServletContainer) 인스턴스 생성
 		 * 		3. 서버 인스턴스에 웹 애플리케이션 배포
 		 * 		4. 서버 인스턴스 실행
-		 * 		5. ApplicationRunner 인터페이스를 구현한 빈을 ApplicationContext에서 찾는다.
+		 * 		5. ApplicationRunner 인터페이스를 구현한 빈을 ApplicationContext에서 찾아 실행
 		 */
 //		ConfigurableApplicationContext ac = null;
 //		
